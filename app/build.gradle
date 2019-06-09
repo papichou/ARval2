@@ -44,3 +44,15 @@ sceneform.asset('sampledata/mon_model/01Alocasia_obj.obj',
         'default',
         'sampledata/mon_model/01Alocasia_obj.sfa',
         'src/main/assets/01Alocasia_obj')
+
+sceneform.asset('sampledata/arrowPerronne/untitled-scene.obj',
+        'default',
+        'sampledata/arrowPerronne/untitled-scene.sfa',
+        'src/main/assets/untitled-scene')
+
+
+
+sceneform.asset('sampledata/aaa/aaaa.fbx',
+        'default',
+        'sampledata/aaa/aaaa.sfa',
+        'src/main/assets/aaaa')
